@@ -1,0 +1,164 @@
+
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Yesteryear', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin-right: 30px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+hr{
+  border-style: none;
+  border-top: dotted;
+  width: 3%;
+  border-width: 4px;
+  border-color: #FF69B4;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding: 100px;
+  padding-bottom: 0;
+}
+
+/*.middle-container{
+}*/
+
+.bottom-container{
+  margin-top: 100px;
+  background-color: #66BFBF;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 350px;
+}
+
+.mountain{
+  padding-top: 100px;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.h2-pro{
+  margin-top: 0;
+  font-weight: normal;
+}
+
+.skill-row{
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: left;
+  line-height: 2;
+}
+
+.deep-learning-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.web-design-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-img{
+  margin-top: 100px;
+  width: 225px;
+  height: 225px;
+}
+
+.profile{
+  margin-bottom: 100px;
+}
+
+.profile-description{
+  width: 30%;
+  margin: auto;
+  line-height: 2;
+}
+
+.skills{
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+.contact-me{
+  margin-top: 75px;
+}
+
+.contact-paragraph{
+  line-height: 2;
+}
+
+.btn {
+  font-family: arial;
+  color: #14396A;
+  font-size: 14px;
+  text-shadow: 1px 1px 0 #7CACDE;
+  box-shadow: 1px 1px 1px #BEE2F9;
+  padding: 10px 25px;
+  border-radius: 10px;
+  border: 2px solid #3866A3;
+  background: #63B8EE;
+  background: linear-gradient(to top, #63B8EE, #468CCF);
+}
+.btn:hover {
+  color: #14396A;
+  background: #468CCF;
+  background: linear-gradient(to top, #468CCF, #63B8EE);
+}
+
+.contact-paragraph{
+  margin-bottom: 50px;
+}
+
+.copyright{
+  font-size: 0.75rem;
+  color: #EAF6F6;
+  margin-top: 50px;
+}
